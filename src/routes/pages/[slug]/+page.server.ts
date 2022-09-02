@@ -1,6 +1,6 @@
 import type { PageServerLoad } from './$types';
 
-export const prerender = false;
+export const prerender = 'auto';
 
 export const load: PageServerLoad = async ({ params }) => {
 	return {
