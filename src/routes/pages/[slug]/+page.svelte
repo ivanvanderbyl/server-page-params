@@ -4,5 +4,5 @@
 </script>
 
 <div>
-	Loaded post {data.id}
+	Loaded page {data.id}
 </div>
